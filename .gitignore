@@ -1,0 +1,7 @@
+build/
+.qtcreator/
+CMakeLists.txt
+!*.cpp
+!*.h
+!googletest/
+
