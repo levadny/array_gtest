@@ -1,6 +1,6 @@
 build/
 .qtcreator/
-CMakeLists.txt
+!CMakeLists.txt
 !*.cpp
 !*.h
 !googletest/
